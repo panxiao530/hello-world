@@ -1,2 +1,7 @@
+<<<<<<< .mine
+asdf
+
+=======
 asdf
 abcd
+>>>>>>> .theirs
